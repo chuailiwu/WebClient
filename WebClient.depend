@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401103644 source:d:\cbworkspace\webclient\webclnt.c
+	<stdio.h>
+	<winsock2.h>
+
